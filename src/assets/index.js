@@ -37,7 +37,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import horri from "./putamierda.png";
 import phone from "./mejorshit.png";
-import code from "./code.png";
+import code from "./code.PNG";
 import unity2 from "./unity2.png";
 import tt from "./tt.png";
 import ua from "./ua.jpg";

@@ -44,6 +44,7 @@ import tt from "./tt.png";
 import ua from "./ua.jpg";
 
 export {
+  logo2,
   ua,
   tt,
   unity2,

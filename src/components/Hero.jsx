@@ -22,7 +22,7 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915EFF]">Luis</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            and I ( try to ) Develop Software 
+            and I Develop Software 
             <br className="sm:block hidden" /> in any of these languages:
             
           </p>

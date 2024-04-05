@@ -7,7 +7,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-
+import ai_icon from "./icon_AI.png"
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -42,8 +42,13 @@ import code from "./code.png";
 import unity2 from "./unity2.png";
 import tt from "./tt.png";
 import ua from "./ua.jpg";
+import logo3   from "./logo3.png";
+import euipo from "./euipo-emblem.png"
 
 export {
+  euipo,
+  ai_icon,
+  logo3,
   logo2,
   ua,
   tt,

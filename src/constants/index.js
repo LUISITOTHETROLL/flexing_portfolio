@@ -1,6 +1,7 @@
 import {
   ua,
   tt,
+  ai_icon,
   unity2,
   code,
   horri,
@@ -128,6 +129,10 @@ import {
   ];
   
   const services = [
+  {
+    title: "AI Developer",
+    icon: ai_icon,
+  },
     {
       title: "Frontend Developer",
       icon: web,
@@ -172,12 +177,12 @@ import {
       //tesla,
       
       iconBg: "#E6DEDD",
-      date: "March 2021 - August 2021",
+      date: "March 2021 - Present",
       points: [
         "Uploading creative videos with great impact on audience.",
         "Video and audio editing",
         "Collaborating with a team in order to get both quality recording and content",
-        "Probably retaking activity soon",
+        
       ],
     },
     {
